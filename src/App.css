@@ -1,0 +1,33 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+.app{
+  align-items: centre;
+}
+.books{
+  background-color: black;
+  color: white;
+  display: grid;
+  content-alignment: centre;
+  align-item: centre;
+  margin:20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.button{
+  display:flex;
+  justify-content: space-around;
+  padding: 10px;
+  border-radius: 10px;
+}
+.form{
+  display: grid;
+  margin:20px auto 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: whitesmoke;
+  width: 400px;
+}
